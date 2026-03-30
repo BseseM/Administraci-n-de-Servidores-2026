@@ -1,5 +1,5 @@
-Scripts de Borrado Y recuperación
-
+# Scripts de Borrado Y recuperación
+#
 Script que borrar un archivo de forma que pueda ser recuperado. Se apoya del directorio temporal (/tmp/) para su "eliminación".
 Script de recuperación. Recupera un un archivo "eliminado" que se encuentre en el directorio temporal (/tmp/).
 
